@@ -1,0 +1,17 @@
+#a4{
+    width:832px;
+	height:1020px;
+	margin:auto;
+    border:1px solid black;	
+}
+
+#page{
+	width:640px;
+	height:755px;
+	margin:auto;
+    border:1px solid black;	
+}
+
+#bloc p,#bloc img{
+	display:inline_block;
+}
